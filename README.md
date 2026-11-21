@@ -106,6 +106,13 @@ El trabajo fue desarrollado de manera individual, mediante un proceso de ejecuci
 
 Mi interés fue comprender el propósito de cada etapa y relacionar los resultados con situaciones propias de la gestión de servicios tecnológicos.
 
+## Presentación y video del proyecto
+
+Como complemento al desarrollo del proyecto, preparé una presentación en la que expongo las tres etapas realizadas, los principales resultados obtenidos, los aprendizajes y su aplicación en la gestión de servicios de TI desde mi experiencia profesional.
+
+- [Descargar presentación en PowerPoint](Presentacion_Ciencia_de_Datos_Soporte_TI-1.pptx)
+- [Ver video de presentación del proyecto](https://drive.google.com/file/d/1OUIN5f7JvZR_XHIQ9zOmmk1ATvquWTni/view?usp=sharing)
+
 ## Referencias bibliográficas
 
 - Amaral, C., Fantinato, M., & Peres, S. (2018). *Incident management process enriched event log* [Conjunto de datos]. UCI Machine Learning Repository. https://doi.org/10.24432/C57S4H
